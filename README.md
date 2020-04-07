@@ -83,5 +83,8 @@
 
 ---
 
-> 참고 [https://vim.rtorr.com/lang/ko](url : https://vim.rtorr.com/lang/ko)
+---
+## 참조하기 
+
+[참고 : https://vim.rtorr.com/lang/ko](https://vim.rtorr.com/lang/ko)
 
