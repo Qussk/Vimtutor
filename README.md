@@ -86,5 +86,5 @@
 ---
 ## 참조하기 
 
-[참고 : https://vim.rtorr.com/lang/ko](https://vim.rtorr.com/lang/ko)
+[https://vim.rtorr.com/lang/ko 이동 ](https://vim.rtorr.com/lang/ko)
 
